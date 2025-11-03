@@ -15,8 +15,12 @@ A total of 8 birds were used in this study, sampled from an established populati
 
 #Conclusions
 
+Figure 1 displays repertoire size from 8 male European starlings over a 1-year period, on the x axis is the year of song recording and on the y axis is the repertoire size. Note that there were 8 males evaluated, but 2 of them followed the exact same pattern (increasing from 62 to 67 songs) so it appears as though there are only 7 points. Repertoire size increased for 6 of 8 males, remained the same for 1 of 8 males, and decreased for 1 of 8 males. However, overall, there were no significant changes in repertoire size detected.  
+
 ![Figure 1  Repertoire size of 8 male European Starlings, Strurnus vulgaris, 
 recorded over a 1-year period.](/users/kc/desktop/repertoire_size.png)
+
+Figure 2 displays mean bout length from the same 8 male European starlings over a 1-year period, on the x axis is the year of song recording and on the y axis is mean bout length. Mean song bout length increased for 4 of 8 males and decreased for 4 of 8 males. However, overall, there were no significant changes in song bout length detected.
 
 ![Figure 2  Mean song bout length of 8 male European Starlings, Strurnus 
 vulgaris, recorded over a 1-year period.](/users/kc/desktop/bout_length.png)
