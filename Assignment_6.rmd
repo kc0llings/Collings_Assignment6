@@ -6,15 +6,15 @@ output: html_document
 ---
 
 
-#INTRODUCTION
+# Introduction
 
 In the study by Dharmasiri et al., (2025) the relationship between song complexity and age was assessed in a population of male European starlings, Sturnus vulgaris. The aim of this study was to determine whether aspects of song (repertoire size and average song bout length) act as a signal of age over a 1-year period within a wild population of starlings. Repertoire size is defined as being the number of unique phrase types a bird sings, and song bout length is defined as the average duration of an individual birds song (Ball, & Hulse, 1998). European starlings are known for their song complexity: they have large repertoires and sing long song bouts (Eens et al., 1991). They are also open-ended learners, meaning that they can learn new songs and add and remove songs from their repertoire throughout their lifetime (Brenowitz & Beecher, 2005). Previous research has shown that aspects of song complexity act as an indicator of age between second year (born the previous year) and after second year (born more than a year ago) birds, but whether this trend continues across differently aged after second year birds differs across species (Vaytina & Shitkov, 2019). In the current study, only after second year birds were evaluated. A previous study on a captive population of starlings has shown that song complexity does not signal age over a 1-year period in after second year birds (Eens et al., 1992), but whether this pattern is also seen within wild populations is not known.   
 
-#METHODS 
+# Methods
 
 A total of 8 birds were used in this study, sampled from an established population living and breeding on the campus of Saint Mary's University in Halifax, Nova Scotia. Birds were captured in their nest box to be banded with a unique colour combination of bands (for reidentification purposes) and 7 hackle (throat) feathers were sampled. Age was then determined by measuring the mean length of the iridescence portion of the hackle feathers. This was done using a ruler under a dissecting microscope; from the average length of the iridescence, they could determine whether males were  second year or after second year (and only after second year birds were included in this study). Individual male song was then recorded daily from outside their nestbox from early February throughout their spring breeding season until a minimum of 27 song bouts were recorded for each of the birds evaluated. This was done using a shotgun microphone and digital recorder, and repeated across 2 years. Song was then analyzed to determine repertoire size (by evaluating how many unique phrase types were within the 27 bouts) and song bout length (by measuring the duration of each of the 27 bouts). This was done using raven pro software which visualizes the song as a spectrogram and has tools to measure it (Dharmasiri et al., 2025). 
 
-#CONCLUSIONS
+# Conclusions
 
 Figure 1 displays repertoire size from 8 male European starlings over a 1-year period, on the x axis is the year of song recording and on the y axis is the repertoire size. Note that there were 8 males evaluated, but 2 of them followed the exact same pattern (increasing from 62 to 67 songs) so it appears as though there are only 7 points. Repertoire size increased for 6 of 8 males, remained the same for 1 of 8 males, and decreased for 1 of 8 males. However, overall, there were no significant changes in repertoire size detected.  
 
@@ -35,7 +35,8 @@ vulgaris, recorded over a 1-year period.
 
 It was found that both repertoire size and mean bout length do not change significantly over a 1-year period within the study population: song complexity does not signal age over 1 year. As mentioned in the introduction, similar conclusions were seen in a different, captive, population of European starlings (Eens et al., 1992), which may indicate that overall, song complexity does not signal age across a 1-year period within different populations of this species.  However, perhaps song increases gradually across years, and the change was not significant enough to detect over just 1 year. This was found in a different population of European starlings living in Montreal, Quebec: the study followed similar methods as the current study but recorded birds over several years (Mountjoy & Lemon, 1995). It was found that there was a significant increase in repertoire size between the first and last year of recording. This leads me to believe that aspects of song complexity – like repertoire size- can indicate age, but year-to-year changes are not significant enough to be detected, especially with these small sample sizes. As such, I believe a longer-term study should be conducted on the birds at Saint Mary’s to determine whether there are significant long-term changes in song complexity that indicate age within this population as well. 
 
-#REFERENCES
+
+# References 
 
 Ball, G. F., & Hulse, S. H. (1998). Birdsong. American Psychologist, 53(1), 37–58. https://doi.org/10.1037/0003-066X.53.1.37 
  
